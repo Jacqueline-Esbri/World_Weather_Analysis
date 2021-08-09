@@ -4,6 +4,8 @@
 
 The goal of this assignment was to provide real-time suggestions to make-believe clients, regarding their travel plans. The job entailed searching for hotels within a given range of latitude and longitudes, and within range of preferred temperatures and weather conditions.
 
+![maps.PNG](PNGs/map.png)
+
 
 
 ## Resources
@@ -12,4 +14,6 @@ The ultimate purpose was to learn to utilize data from websites through Applicat
 
 
 The analysis was correctly executed using statistical skills, data visualization, in addition to efficiently gathering data from from APIs. As a result, we were able to collect and analyze weather data across cities worldwide.
+
+
 
