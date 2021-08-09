@@ -4,7 +4,7 @@
 
 The goal of this assignment was to provide real-time suggestions to make-believe clients regarding their travel plans. The job entailed searching for hotels within a given range of latitude and longitudes, and within range of preferred temperatures and other weather conditions.
 
-![maps.PNG](PNGs/map.png)
+![maps.PNG](PNGs/maps.png)
 
 
 
